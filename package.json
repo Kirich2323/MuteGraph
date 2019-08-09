@@ -1,0 +1,20 @@
+{
+  "name": "TestBot",
+  "version": "1.0.0",
+  "description": "TestBot",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Kirich",
+  "license": "ISC",
+  "dependencies": {
+    "cytoscape": "^3.8.2",
+    "cytoscape-cola": "^2.3.0",
+    "cytoscape-cose-bilkent": "^4.0.0",
+    "cytoscape-dagre": "^2.2.2",
+    "cytosnap": "^3.1.0",
+    "discord.js": "^11.5.1"
+  }
+}

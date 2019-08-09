@@ -1,0 +1,1 @@
+docker run --privileged --shm-size=1gb <image_id>
