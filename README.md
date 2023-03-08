@@ -4,4 +4,4 @@ install
 run
 - node .
 
-optional: you can run in with docker
+optional: you can run it with docker
